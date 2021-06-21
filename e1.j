@@ -6,10 +6,10 @@
         "social": {
             "twitter_handle": "StefanoSu1",
             "telegram_handle": "",
-            "facebook_handle": "",
+            "facebook_handle": "STPZpool",
             "youtube_handle": "",
             "twitch_handle": "",
-            "discord_handle": "Stefano[STPZ1]#8629",
+            "discord_handle": "zfddx2Jukd",
             "github_handle": ""
         },
         "company": {
@@ -26,8 +26,7 @@
             "company": ""
         },
     "my-pool-ids": {
-        "0": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1",
-        "1": ""
+        "0": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1"
       }
     }
 }
