@@ -22,13 +22,12 @@
             "vat_id": ""
         },
         "about": {
-            "me": "Single pool operator, you can contact me: stpz.cardanopool@gmail.com . I'm the Founder of #F2LB Community",
+            "me": "Single pool operator, you can contact me at: stpz.cardanopool@gmail.com . I'm the Founder of #F2LB Community",
             "server": "",
             "company": ""
         },
     "my-pool-ids": {
-        "0": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1",
-        "1": "081aa3ae934a2be13d5b04ff7765a35fb43496a2cb296ab82e4feab1"
+        "0": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1"
       }
     }
 }
