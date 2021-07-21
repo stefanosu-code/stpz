@@ -17,14 +17,14 @@
             "name": "Stacking Pizza Cardano pool",
             "addr": "",
             "city": "Rome",
-            "country": "IT",
+            "country": "Italy",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "Single pool operator, you can contact me at: stpz.cardanopool@gmail.com . I'm the Founder of #F2LB Community",
+            "me": "Single pool operator, you can contact me at: stpz.cardanopool@gmail.com . I'm the Founder of #F2LB Community too",
             "server": "Bare Metal Server on a web farm",
-            "company": ""
+            "company": "Working for decentralization"
         },
     "my-pool-ids": {
         "0": "f218d7c550fecc856bdf09c6ec12d64f68a59b6727f29bedb06d88b1"
