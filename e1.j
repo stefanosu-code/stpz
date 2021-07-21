@@ -2,7 +2,7 @@
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/stefanosu-code/stpz/a/icon_stpz.png",
         "url_png_logo": "https://raw.githubusercontent.com/stefanosu-code/stpz/a/logo4_stpz.png",
-        "location": "Roma, Italia",
+        "location": "Rome, Italy",
         "social": {
             "twitter_handle": "StefanoSu1",
             "telegram_handle": "",
@@ -23,7 +23,7 @@
         },
         "about": {
             "me": "Single pool operator, you can contact me at: stpz.cardanopool@gmail.com . I'm the Founder of #F2LB Community",
-            "server": "",
+            "server": "Bare Metal Server on a web farm",
             "company": ""
         },
     "my-pool-ids": {
