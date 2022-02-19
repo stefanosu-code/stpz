@@ -4,7 +4,7 @@
         "url_png_logo": "https://raw.githubusercontent.com/stefanosu-code/stpz/a/logo4_stpz.png",
         "location": "Rome, Italy",
         "social": {
-            "twitter_handle": "StefanoSu1",
+            "twitter_handle": "STackingPiZza",
             "telegram_handle": "",
             "facebook_handle": "STPZpool",
             "youtube_handle": "",
